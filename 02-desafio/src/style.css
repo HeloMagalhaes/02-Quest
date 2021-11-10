@@ -1,0 +1,43 @@
+.painel {
+    max-width: 1440px;
+    position: relative;
+    margin: 0 auto;
+}
+
+.painel img {
+    position: absolute;
+    top: 96px;
+    right: 0;
+    width: 921.74px;
+    height: 384px;
+}
+
+.elementos {
+    display: inline-block;
+    width: 342px;
+    margin-top: 183px;
+    margin-left: 95px;
+}
+
+.elementos h1 {
+    font-size: 30px;
+    font-weight: 700;
+}
+
+.elementos p {
+    margin-top: 14px;
+    font-size: 20px;
+}
+
+.botao {
+    display: inline-block;
+    padding: 10px 21px;
+    margin-top: 59px;
+    background-color: #5BC241;
+    border-radius: 10px;
+}
+
+.botao a {
+    color: white;
+    font-size: 15px;
+}

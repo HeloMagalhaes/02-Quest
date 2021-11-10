@@ -1,0 +1,31 @@
+@media (max-width: 375px) {
+    .painel {
+        width: 100%;
+        text-align: center;
+    }
+    .painel img {
+        width: 306px;
+        height: 127px;
+        left: 35px;
+        top: 220px;
+        right: 0px;
+    }
+    .elementos {
+        display: block;
+        width: auto;
+        margin-top: 144px;
+        margin-left: 0;
+    }
+    .painel p {
+        margin: 39px auto;
+        width: 324px;
+        height: 72px;
+    }
+    .botao {
+        margin-top: 195px;
+        padding: 20px 22px;
+    }
+    .botao a {
+        font-size: 30px;
+    }
+}

@@ -1,0 +1,9 @@
+@media (max-width: 375px) {
+    .quadros div {
+        display: block;
+    }
+    .quadro {
+        margin-top: 0px;
+        height: 431.86px;
+    }
+}

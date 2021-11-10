@@ -1,0 +1,9 @@
+                @media(max-width:375px) {
+                .painel {
+                    background-color: #181D29;
+                    max-width: 375px;
+                }
+                .card {
+                    display: block;
+                    width: 100%;
+                }
